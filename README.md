@@ -6,6 +6,12 @@
 ### 🇮🇷 [Persian Version (نسخه فارسی)](./README_FA.md) | 🇺🇸 **English Version**
 ---
 
+## 📄 Original Research Document
+You can download the full 57-page research document in Word format from the link below:
+### 📥 [Download AI_in_Video_Games_.docx](./AI_in_Video_Games_.docx)
+
+---
+
 ## 📚 Encyclopedia Structure (Research Chapters)
 
 To study each section, click on its title:
