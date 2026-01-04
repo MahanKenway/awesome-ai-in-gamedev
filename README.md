@@ -1,66 +1,55 @@
-# Awesome AI in Game Development 🎮🤖
+# Comprehensive Encyclopedia of AI in Video Games 🎮🤖
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Stars](https://img.shields.io/github/stars/MahanKenway/awesome-ai-in-gamedev?style=social)
-
-> A curated list of awesome AI techniques, algorithms, and resources used in video games. Inspired by the evolution of game AI from Arcade classics to modern Generative AI.
+> This repository is a complete and comprehensive research on the history, techniques, algorithms, and future of Artificial Intelligence in the game development industry. The content of this project is based on a 57-page scientific research.
 
 ---
-### 🇮🇷 [نسخه فارسی (Persian Version)](./README_FA.md)
+### 🇮🇷 [Persian Version (نسخه فارسی)](./README_FA.md) | 🇺🇸 **English Version**
 ---
 
-## 📌 Table of Contents
-- [Introduction](#-introduction)
-- [History of Game AI](#-history-of-game-ai)
-- [Core Techniques & Algorithms](#-core-techniques--algorithms)
-- [Case Studies](#-case-studies)
-- [Types of AI in Games](#-types-of-ai-in-games)
-- [Future of AI in Gaming](#-future-of-ai-in-gaming)
-- [Tools & Frameworks](#-tools--frameworks)
+## 📚 Encyclopedia Structure (Research Chapters)
+
+To study each section, click on its title:
+
+### 1. [Chapter 1: Introduction and Core Concepts](./docs/en/chapter1_intro.md)
+- Definition of AI in games
+- Strategic and economic importance
+- Key applications in the modern industry
+
+### 2. [Chapter 2: History and Evolution](./docs/en/chapter2_history.md)
+- Golden Age of Arcade (Pac-Man, Space Invaders)
+- Modern Era and Emergent Behaviors (F.E.A.R, Halo)
+- Machine Learning Revolution (Skyrim, The Sims)
+- Era of Generative AI
+
+### 3. [Chapter 3: Technical Techniques and Algorithms](./docs/en/chapter3_algorithms.md)
+- Finite State Machines (FSM)
+- Behavior Trees
+- Goal-Oriented Action Planning (GOAP)
+- Pathfinding Algorithms (A*, Dijkstra)
+- Reinforcement Learning
+
+### 4. [Chapter 4: Case Studies (Analyzing Major Games)](./docs/en/chapter4_case_studies.md)
+- **Red Dead Redemption 2**: The pinnacle of realism in NPCs
+- **No Man's Sky**: Procedural generation on a galactic scale
+- **Forza Motorsport**: Drivatar learning system
+- **Minecraft**: AI in a destructible world
+
+### 5. [Chapter 5: Future, Challenges, and Ethics](./docs/en/chapter5_future.md)
+- Autonomous AI and dynamic storytelling
+- Technical and computational challenges
+- Ethical considerations and impact on employment
 
 ---
 
-## 🌟 Introduction
-AI in video games refers to systems and algorithms that allow Non-Player Characters (NPCs) to act intelligently and independently. It has evolved from simple rule-based systems to complex Machine Learning models.
-
-## 📜 History of Game AI
-- **Arcade Era (1970-1980):** Simple rule-based logic.
-  - *Space Invaders (1978):* Adaptive difficulty through speed.
-  - *Pac-Man (1980):* Unique "personalities" for ghosts.
-- **Modern Era (2000s):** Emergent behaviors.
-  - *F.E.A.R. (2005):* Introduced GOAP (Goal-Oriented Action Planning).
-  - *Halo 2:* Popularized Behavior Trees.
-- **Machine Learning Revolution (2010-2020):**
-  - *The Sims:* Complex FSM and Utility systems.
-  - *Skyrim:* Radiant AI for daily NPC lives.
-
-## 🧠 Core Techniques & Algorithms
-- **FSM (Finite State Machines):** Basic "If-Then" logic (Idle, Patrol, Chase).
-- **Behavior Trees:** Scalable and modular decision-making.
-- **GOAP (Goal-Oriented Action Planning):** Dynamic sequence of actions to reach a goal.
-- **Pathfinding (A* Algorithm):** The standard for NPC navigation.
-- **Reinforcement Learning:** Agents learning through trial and error (e.g., AlphaGo).
-
-## 🎮 Case Studies
-- **Red Dead Redemption 2:** Advanced NPCs with daily routines and emotional memory.
-- **No Man's Sky:** Procedural generation of 18 quintillion planets.
-- **Forza Motorsport:** *Drivatar* system that learns from real player driving styles.
-- **Minecraft:** Advanced pathfinding and community-driven AI mods (LazyAI).
-
-## 🛠 Tools & Frameworks
-- **Unity ML-Agents:** Reinforcement learning in Unity.
-- **Inworld AI:** Generative AI for lifelike NPCs.
-- **Scenario:** AI-generated game assets.
-
-## 🚀 Future of AI in Gaming
-- **Generative AI:** Real-time story, asset, and world creation.
-- **Autonomous NPCs:** Characters that build their own narratives.
-- **Simulated Realities:** Game worlds that live even when you are offline.
+## 💻 Practical Section (Code Examples)
+In this repository, simple code examples are provided to better understand the algorithms:
+- [A* Pathfinding Algorithm Implementation in Python](./src/astar_example.py)
+- [Finite State Machine (FSM) Simulation for Enemy AI](./src/fsm_example.py)
 
 ---
-## 🤝 Contributing
-Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## 🚀 How to Contribute
+If you want to add content to this encyclopedia or improve its code, we would be happy to receive your Pull Request!
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
